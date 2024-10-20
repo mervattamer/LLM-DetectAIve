@@ -29,15 +29,15 @@ LLM-DetectAIve can effectively identify the authorship of textual content, provi
 The demonstration for LLM-DetectAIve has two tabs
 
 ### 1. Automatic Text Detection
-<img src="https://raw.githubusercontent.com/mervettamer/LLM-DetectAIve/main/assets/interface1.png" width="100%">
-<!-- <img src="assets\interface1.png" width="100%"> -->
+![Demo Interface 2](assets/Interface1.png)
+
     
 Lets the user input any text (> 50 words) to get a prediction from LLM-DetectAIve.
 
 
 ### 2. Human Detector Playground
-<img src="https://raw.githubusercontent.com/mervettamer/LLM-DetectAIve/main/assets/interface2.png" width="100%">
-<!-- <img src="assets\interface2.png" width="100%"> -->
+
+![Demo Interface 2](assets/Interface2.png)
 
 Lets the user see if they can correctly label data given a random sample text.
 
@@ -50,7 +50,8 @@ III. Machine-Written Machine-Humanized
 IV. Human-Written Machine-Polished  
  
 
-<img src="https://raw.githubusercontent.com/mervettamer/LLM-DetectAIve/main/assets/data_generated_table.png" width="100%">
+![Data Generated Table](assets/data_generated_table.png)
+
 <!-- <img src="assets\data_generated_table.png" width="100%"> -->
 For row II + III + IV, the data is approximately uniformly distributed across the three classes.
 
